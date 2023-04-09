@@ -1,16 +1,12 @@
-# xylophone
+# Xylophone App
 
-A new Flutter project.
+![8Ruk99As7M](https://user-images.githubusercontent.com/72740598/230762963-fa2bd506-38e2-4764-a72d-49ec5589c480.gif)
 
-## Getting Started
+This is a flutter application for android platforms which plays sounds of a xylophone. Check it out.
 
-This project is a starting point for a Flutter application.
+## You will find
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter Packages (Audioplayer)
+- Refactoring Flutter Code
+- Dart Functions
+- Dart Funtions which returns flutter widgets
